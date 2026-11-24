@@ -1,0 +1,5 @@
+.DS_Store
+*.der
+passphrase
+salt
+.claude/
