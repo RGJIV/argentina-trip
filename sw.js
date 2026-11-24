@@ -1,5 +1,5 @@
 /* Offline: keep the whole trip on the phone. tools/build.mjs rewrites VERSION on every build. */
-const VERSION = "trip-202611241834";
+const VERSION = "trip-202611241834b";
 const FILES = ["./", "index.html", "trip.enc", "manifest.webmanifest", "vendor/leaflet.js", "fonts/fonts.css",
   "icons/icon-32.png", "icons/icon-180.png", "icons/icon-512.png" /*FONTS*/, "fonts/BarlowCondensed-500-latin-ext.woff2", "fonts/BarlowCondensed-500-latin.woff2", "fonts/BarlowCondensed-600-latin-ext.woff2", "fonts/BarlowCondensed-600-latin.woff2", "fonts/BarlowCondensed-700-latin-ext.woff2", "fonts/BarlowCondensed-700-latin.woff2", "fonts/IBMPlexMono-400-latin-ext.woff2", "fonts/IBMPlexMono-400-latin.woff2", "fonts/IBMPlexMono-500-latin-ext.woff2", "fonts/IBMPlexMono-500-latin.woff2", "fonts/IBMPlexSans-400-latin-ext.woff2", "fonts/IBMPlexSans-400-latin.woff2", "fonts/IBMPlexSans-400i-latin-ext.woff2", "fonts/IBMPlexSans-400i-latin.woff2", "fonts/IBMPlexSans-500-latin-ext.woff2", "fonts/IBMPlexSans-500-latin.woff2", "fonts/IBMPlexSans-600-latin-ext.woff2", "fonts/IBMPlexSans-600-latin.woff2"];
 
